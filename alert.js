@@ -1,2 +1,2 @@
 /// alert.js
-alert:("hi")
+alert('hi');
